@@ -1,0 +1,48 @@
+.box{
+    height: 30px;
+    width: 30px;
+    background-color: #1f3540;
+    padding: 50px;
+    margin: 5px;
+    border: 2px solid gray;
+    font-size: 37px;
+    color: white;
+
+}
+.container{
+    display: flex;;
+    justify-content: center;
+    align-items: center;
+    margin: 0px;
+   
+    
+}
+.boxes{
+    margin: 40px;
+    height: 100vh;
+}
+.title{
+    color: white;
+    text-align: center;
+    
+}
+span{
+    color: #26ffcb;
+}
+.reset{
+    display: flex;;
+    justify-content: center;
+    align-items: center;
+    margin: 50px;
+    
+}
+.Reset{
+    font-size: 20px;
+    background-color: #26ffcb;
+    color: #1f3540;
+    cursor: pointer;
+}
+.chance{
+    color: #26ffcb;
+    text-align: center;
+}
