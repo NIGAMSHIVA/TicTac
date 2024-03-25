@@ -1,12 +1,16 @@
 .box{
-    height: 30px;
-    width: 30px;
+    height: 100px;
+    width: 100px;
     background-color: #1f3540;
-    padding: 50px;
+    
     margin: 5px;
     border: 2px solid gray;
     font-size: 37px;
     color: white;
+   
+    display: flex;
+    justify-content: center;
+    align-items: center;
 
 }
 .container{
